@@ -18,7 +18,7 @@
         "happy-dom": "7.7.0",
         "postcss": "8.4.19",
         "sass": "1.56.0",
-        "sass-loader": "10.3.1",
+        "sass-loader": "13.2.0",
         "vee-validate": "4.7.2",
         "vitest": "0.25.3",
         "vue-toastification": "2.0.0-rc.5"
