@@ -15,7 +15,7 @@
         "@vueuse/nuxt": "9.6.0",
         "awesome-phonenumber": "4.0.0",
         "core-js": "3.26.0",
-        "happy-dom": "7.7.0",
+        "happy-dom": "8.1.0",
         "postcss": "8.4.19",
         "sass": "1.56.0",
         "sass-loader": "10.3.1",
